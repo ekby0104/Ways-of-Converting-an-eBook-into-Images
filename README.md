@@ -1,4 +1,4 @@
-[ You can use this without reading the instructions below 😆]
+[ You can use this without reading below 😆]
 
 1. Select the top-left coordinate
 2. Select the bottom-right coordinate
